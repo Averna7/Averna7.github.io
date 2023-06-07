@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Department of Neurology, University Hospital Bern, Freiburgstrasse 16, 3010 Bern, Switzerland</a>
 
 profile:
   align: right
